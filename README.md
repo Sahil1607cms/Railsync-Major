@@ -255,7 +255,7 @@ cd booking-service && npm run dev
 cd notification-service && npm run dev
 
 # 9. API Gateway
-cd api-gateway && npm run dev
+cd api-gateway && npm run  dev
 
 # 10. Frontend
 cd frontend && npm run dev
